@@ -20,7 +20,7 @@ Punti deboli:
 
 Screenshot:
 ---
-![alt text](https://github.com/Dilan-Bertini-Scuola/Dilan-Bertini-Scuola.github.io/img/happyscribe_screenshot.png "HappyScribe Screenshot")
+![HappyScribe Screenshot](https://raw.githubusercontent.com/Dilan-Bertini-Scuola/Dilan-Bertini-Scuola.github.io/master/img/happyscribe_screenshot.png "HappyScribe Screenshot")
 
 # GitHub & GitHub Pages
 Non ho avuto particolari difficolta con l'utilizzo di GitHub e di GitHub Pages, siccome ho già avuto qualche esperienza con questi strumenti. In particolare con GitHub sul mio account personale non scolastico.
