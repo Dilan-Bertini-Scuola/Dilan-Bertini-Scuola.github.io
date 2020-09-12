@@ -1,0 +1,48 @@
+/* Global */
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+li {
+  margin: 10px 0px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+
+/* Header */
+
+.header {
+  background-size: cover;
+  background-color: #232323;
+  padding: 30px 50px;
+}
+
+.header h1 {
+  color: white;
+  font-size: 40px;
+}
+
+.header h2 {
+  color: #c7c7c7;
+  font-size: 17px;
+  font-weight: normal;
+}
+
+/* Youtube video */
+
+.youtube-video {
+  display: block;
+  margin: 20px auto;
+}
+
+/* Body */
+
+.body {
+  padding: 20px;
+}

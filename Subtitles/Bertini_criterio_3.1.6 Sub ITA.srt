@@ -1,0 +1,247 @@
+﻿1
+00:00:01,080 --> 00:00:03,960
+Documentazione del criterio 3 1 6.
+
+2
+00:00:04,160 --> 00:00:05,880
+La pronuncia.
+
+3
+00:00:07,000 --> 00:00:11,360
+Il criterio 3 1 6 o per meglio dire il criterio
+sulla pronuncia consiste nel rendere
+
+4
+00:00:11,500 --> 00:00:15,600
+disponibile un meccanismo per identificare
+specifiche pronunce per le parole il cui
+
+5
+00:00:15,800 --> 00:00:19,760
+significato nel contesto è ambiguo
+se non se ne conosce la pronuncia.
+
+6
+00:00:19,960 --> 00:00:22,000
+L'intento di questo criterio di successo è
+
+7
+00:00:22,000 --> 00:00:25,360
+di aiutare le persone non vedenti le
+persone con problemi di vista e le persone
+
+8
+00:00:25,560 --> 00:00:28,360
+con difficoltà di lettura
+a comprendere i contenuti.
+
+9
+00:00:28,560 --> 00:00:33,080
+Nei casi il cui significato dipende dalla
+pronuncia spesso parole o caratteri che
+
+10
+00:00:33,280 --> 00:00:36,280
+hanno significati diversi ognuno
+con la propria pronuncia.
+
+11
+00:00:36,480 --> 00:00:38,280
+Questo criterio di successo può aiutare le
+
+12
+00:00:38,480 --> 00:00:42,280
+persone che hanno difficoltà a
+decodificare le parole o il contesto
+
+13
+00:00:42,480 --> 00:00:47,240
+ma anche coloro che utilizzano
+programmi per la lettura ad alta voce.
+
+14
+00:00:47,440 --> 00:00:51,320
+Alcuni esempi di questo criterio possono
+essere dare la lettura del nome di una
+
+15
+00:00:51,520 --> 00:00:56,360
+persona mostrare la lettura delle parole
+fornire un file audio della pronuncia
+
+16
+00:00:56,560 --> 00:01:00,120
+includere informazioni sulla pronuncia
+usando un glossario
+
+17
+00:01:00,320 --> 00:01:04,080
+oppure un testo che include informazioni
+sulla pronuncia dei caratteri condivisi da
+
+18
+00:01:04,280 --> 00:01:08,160
+più lingue ma pronunciati in
+modo diverso in ciascuna lingua.
+
+19
+00:01:08,360 --> 00:01:09,760
+Le applicazioni del criterio sono
+
+20
+00:01:09,960 --> 00:01:13,920
+molteplici oggi ve ne
+mostrerò solamente alcune.
+
+21
+00:01:18,760 --> 00:01:21,280
+Il primo metodo che vi voglio mostrare è
+
+22
+00:01:21,480 --> 00:01:24,880
+fornire la pronuncia
+immediatamente dopo la parola.
+
+23
+00:01:25,080 --> 00:01:29,760
+Questo metodo consiste
+come si è capito dal titolo nell'inserire
+
+24
+00:01:29,960 --> 00:01:32,120
+immediatamente dopo la
+parola la pronuncia.
+
+25
+00:01:32,320 --> 00:01:36,960
+Questo comporterà una seconda lettura da
+parte dei sintetizzatori vocali i quali
+
+26
+00:01:37,160 --> 00:01:41,680
+leggeranno la prima parola in modo
+errato e la seconda in modo corretto.
+
+27
+00:01:46,480 --> 00:01:51,160
+Il secondo metodo che vi mostrerò sarà
+quello di inserire un link all'interno
+
+28
+00:01:51,360 --> 00:01:58,040
+della parola che ricolleghi a un
+audio o a un dizionario di pronuncia.
+
+29
+00:02:03,314 --> 00:02:06,486
+Il terzo metodo che voglio
+mostrare è quello del glossario.
+
+30
+00:02:06,680 --> 00:02:08,560
+L'obiettivo di questa tecnica è rendere
+
+31
+00:02:08,760 --> 00:02:12,840
+disponibili le definizioni della parola
+frase abbreviazione fornendo la definizione
+
+32
+00:02:13,040 --> 00:02:16,760
+in un glossario.
+Un glossario cioè un elenco alfabetico di
+
+33
+00:02:16,960 --> 00:02:21,400
+parole frasi e abbreviazioni con le loro
+definizioni. I glossari sono più appropriati
+
+34
+00:02:21,600 --> 00:02:25,240
+quando le parole le frasi e le
+abbreviazioni utilizzate all'interno il
+
+35
+00:02:25,290 --> 00:02:29,040
+contenuto si riferiscono da una
+specifica disciplina o area tecnologica.
+
+36
+00:02:29,240 --> 00:02:33,000
+Un glossario può anche fornire la
+pronuncia di una parola o frase.
+
+37
+00:02:33,200 --> 00:02:38,757
+Inoltre questo metodo è strettamente
+collegato con il criterio 3 1 3 e 3 1 4.
+
+38
+00:02:38,960 --> 00:02:41,160
+I quali il 3 1 4
+
+39
+00:02:41,360 --> 00:02:46,800
+è quello delle abbreviazioni era il 3
+1 3 è quello delle parole non usuali.
+
+40
+00:02:51,240 --> 00:02:53,120
+Il quarto e ultimo metodo che vi mostrerò
+
+41
+00:02:53,320 --> 00:02:57,600
+è quello dell'utilizzo di segni diacritici
+standard che possono essere disattivati.
+
+42
+00:02:57,800 --> 00:02:59,520
+L'obiettivo di questa tecnica è fornire
+
+43
+00:02:59,720 --> 00:03:03,920
+agli utenti un meccanismo per attivare
+e disattivare i segni diacritici.
+
+44
+00:03:04,120 --> 00:03:05,920
+Molte lingue usano segni e segni
+
+45
+00:03:06,120 --> 00:03:10,840
+diacritici per indicare la pronuncia delle
+parole o per aiutare a distinguerle.
+
+46
+00:03:11,040 --> 00:03:13,080
+Alcune lingue possono usare segni
+
+47
+00:03:13,280 --> 00:03:17,000
+diacritici per indicare vocali per
+indicare il raddoppio delle consonanti
+
+48
+00:03:17,200 --> 00:03:21,680
+indicare l'assenza di una vocale o
+di una consonante o per altri scopi.
+
+49
+00:03:21,880 --> 00:03:25,920
+Sebbene sia possibile leggere i testi
+senza tali segni diacritici l'aggiunta di
+
+50
+00:03:26,120 --> 00:03:29,760
+segni diacritici può
+migliorare la leggibilità.
+
+51
+00:03:29,960 --> 00:03:32,000
+Vi ringrazio per la visione del video.
+
+52
+00:03:32,200 --> 00:03:34,560
+Lasciavano un time lapse
+delle ultime modifiche.
+
