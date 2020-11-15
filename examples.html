@@ -1,0 +1,61 @@
+<!-- Dilan Bertini -->
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    * {
+      outline: none;
+    }
+  
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Criterio 3.1.6</h1>
+  <div>
+    <h2>Fornire la pronuncia immediatamente dopo la parola</h2>
+    <p>chrocchetta (croc·chét·ta)</p>
+  </div>
+  <div>
+    <h2>Collegamento alle pronunce</h2>
+    <a href="https://www.google.com/search?sxsrf=ALeKk010qE8-E5NxEwd1JNWK0XTITSS8og%3A1588626409511&ei=6YOwXsThHoWyrgSZl5eQCw&q=dizionario&oq=dizionario&gs_lcp=CgZwc3ktYWIQAzIECCMQJzIFCAAQgwEyAggAMgUIABCDATIFCAAQgwEyAggAMgUIABCDATICCAAyAggAMgIIADoECAAQRzoHCAAQFBCHAjoECAAQQzoHCCMQ6gIQJzoGCCMQJxATULUMWKAeYLEgaAFwAngAgAHXAYgBqA-SAQYwLjEwLjGYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab&ved=0ahUKEwiE-sbGjpvpAhUFmYsKHZnLBbIQ4dUDCAw&uact=5#dobs=Cubo">
+      <p>Cubo</p>
+    </a>
+  </div>
+  <div>
+    <h2>Fornire un glossario</h2>
+    <div style="border: 1px solid black; width: 300px">
+      <ul>
+        <li><b>cubo (cù·bo)</b>: Poliedro regolare avente per facce 6 quadrati uguali e 12 spigoli uguali; detto anche esaedro regolare.</li>
+        <li><b>crocchetta (croc·chét·ta)</b>: Polpettina di carne o di patate lessate oppure di riso, fritta in padella; frequente il dim. crocchettina.</li>
+        <li><b>matita (ma·tì·ta)</b>: Strumento per scrittura e disegno.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div>
+    <h2>Utilizzo di segni diacritici standard che possono essere disattivati</h2>
+    <p id="text-diacritics">Crème Brulée</p>
+    <p id="text-normalized" style="display: none;">Creme Brulee</p>
+    <button id="toggle-diacritics">Toggle diacritics standard</button>
+  </div>
+
+  <br>
+  <a href='/'>Go Back...</a>
+
+  <!-- scripts -->
+  <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+  <script>
+    $(function() {
+      $('#toggle-diacritics').on('click', function() {
+        $('#text-diacritics, #text-normalized').toggle();
+      });
+    });
+  </script>
+</body>
+</html>
